@@ -1,0 +1,16 @@
+body {
+  background: #fff url("images/background.png");
+}
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-brand {
+  font-family: "Satisfy", "cursive";
+}
